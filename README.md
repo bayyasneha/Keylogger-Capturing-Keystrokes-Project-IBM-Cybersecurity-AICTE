@@ -1,6 +1,5 @@
 # Keylogger-Capturing-Keystrokes-Project-IBM-Cybersecurity-AICTE
-# Keylogger-Capturing-Keystrokes
-# Keylogger.
+# ➡️ Keylogger.
 
 This Python program implements a keylogger, which is a type of software that records the keystrokes made by a user on their computer. The program was developed as part of the My Cyber Security project for the IBM SkillsBuild Internship. It utilizes the pynput library to monitor and capture key events. Each key event is stored in a list called key_list, which is later converted to JSON format and saved to a file named 'logs.json'. The keylogger differentiates between key press, key hold, and key release events.
 
